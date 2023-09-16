@@ -22,5 +22,3 @@ Concurrency is essential in modern software to harness the full power of multi-c
 Whether you're building web services, microservices, distributed systems, or any other kind of software, mastering concurrency with GoLang will undoubtedly elevate your development skills and make you a more effective programmer.
 
 Start your journey into the world of concurrency with GoLang today by exploring our repository. Happy coding! 🚀
-
-[Insert Repository URL]
